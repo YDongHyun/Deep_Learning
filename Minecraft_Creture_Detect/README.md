@@ -18,5 +18,5 @@
      - labelimg
      - Pytorch  1.10.2 / CUDA 11.3
      - CUDA 11.3.1
-    <hr>
+ 
 
