@@ -17,4 +17,5 @@
      - Pytorch  1.10.2 / CUDA 11.3
      - CUDA 11.3.1
  
-
+ 
+ python train.py --data data.yaml --weights yolov5s.pt --name data-1
